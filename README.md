@@ -1,5 +1,5 @@
 # Formation Flight of Quadrotors
-Blog post to the repo: https://robotsros.wordpress.com/2019/03/22/formation-control-of-quadrocopters/
+Blog post to the repo: https://www.jenspetit.de/2019/03/formation_control_quadrocopters.html
 All Information can be found in the thesis, the .pdf File in the repo.
 
 # Thesis Abstract
