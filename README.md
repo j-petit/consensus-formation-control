@@ -1,6 +1,5 @@
 # Formation Flight of Quadrotors
-Blog post to the repo: https://www.jenspetit.de/2019/03/formation_control_quadrocopters.html
-All Information can be found in the thesis, the .pdf File in the repo.
+[Blog post](https://jenspetit.de/posts/2019/03/formation_control_quadrocopters/) to the repo. All Information can be found in the thesis which is contained in the repo.
 
 # Thesis Abstract
 Due to falling prices of electronics, the abundance of cheap computing power and ongoing miniaturization, swarms of autonomous vehicles are starting to become reality. To control such large scale systems, the field of cooperative control was established and has gained significant attention in recent years. A multi-vehicle system may be able to solve tasks that cannot be achieved by a single agent. Applications are various and range from cooperative load carrying to monitoring large areas. In all these applications, formation maintenance plays a key role, which is covered in this work.
